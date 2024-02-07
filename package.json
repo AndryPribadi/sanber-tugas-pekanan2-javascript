@@ -1,0 +1,11 @@
+{
+  "name": "tugas-pekan-2",
+  "version": "1.0.0",
+  "description": "tugas javascript pekan 2",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "node soal1.js"
+  },
+  "author": "andry",
+  "license": "ISC"
+}
